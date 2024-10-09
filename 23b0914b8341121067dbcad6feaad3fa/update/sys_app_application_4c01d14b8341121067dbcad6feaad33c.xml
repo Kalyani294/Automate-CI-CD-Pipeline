@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Automate CI/CD Pipeline using github actions</description>
+        <device_type>browser</device_type>
+        <hint>Automate CI/CD Pipeline using github actions</hint>
+        <name/>
+        <order/>
+        <roles>admin,itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-09 07:17:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c01d14b8341121067dbcad6feaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automate CI/CD Pipeline</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Automate CI/CD Pipeline" source="x_992937_automate">23b0914b8341121067dbcad6feaad3fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automate CI/CD Pipeline">23b0914b8341121067dbcad6feaad3fa</sys_scope>
+        <sys_update_name>sys_app_application_4c01d14b8341121067dbcad6feaad33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-09 07:17:18</sys_updated_on>
+        <title>Automate CI/CD Pipeline</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
